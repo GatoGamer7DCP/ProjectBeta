@@ -2,8 +2,7 @@
 
 ProjectBeta is an experimental voxel engine written in Java using LWJGL.
 
-The goal of the project is to recreate the evolution of early sandbox engines,
-similar to the earliest development stages of Minecraft.
+The goal of the project is to recreate the evolution of early sandbox engines
 
 ## Current Version
 
