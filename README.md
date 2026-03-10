@@ -7,7 +7,7 @@ similar to the earliest development stages of Minecraft.
 
 ## Current Version
 
-RD-132211
+RD-132300
 
 Features:
 
@@ -15,13 +15,12 @@ Features:
 - textured voxel cubes
 - prototype world renderer
 - executable jar builds
-
+- camera movement (WASD)
 ## Screenshots
 
-(screenshot will go here)
+![RD132211](screenshots/rd-132211/1.png)
 
 ## Releases
 
 - RD-132211 — first prototype with textured cubes
-
-![RD132211](screenshots/rd-132211/1.png)
+- RD-132300 — added camera movement using WASD
