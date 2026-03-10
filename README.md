@@ -23,3 +23,5 @@ Features:
 ## Releases
 
 - RD-132211 — first prototype with textured cubes
+
+![RD132211](screenshots/rd-132211/1.png)
