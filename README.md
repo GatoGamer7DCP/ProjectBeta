@@ -18,7 +18,8 @@ Features:
 - camera movement (WASD)
 ## Screenshots
 
-![RD132211](screenshots/rd-132211/1.png)
+(Latest release)
+![RD132211](screenshots/rd-132300/1.png)
 
 ## Releases
 
