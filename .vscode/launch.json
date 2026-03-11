@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ProjectBeta",
+      "request": "launch",
+      "mainClass": "projectbeta.Main"
+    }
+  ]
+}
